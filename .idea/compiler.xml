@@ -6,15 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="data-structure" />
         <module name="hystrix" />
+        <module name="io" />
+        <module name="opencv" />
         <module name="quartz" />
+        <module name="thread" />
         <module name="threadpool" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="data-structure" target="1.5" />
       <module name="exercise" target="1.5" />
       <module name="hystrix" target="1.5" />
+      <module name="io" target="1.5" />
+      <module name="opencv" target="1.5" />
       <module name="quartz" target="1.5" />
+      <module name="thread" target="1.5" />
       <module name="threadpool" target="1.5" />
     </bytecodeTargetLevel>
   </component>

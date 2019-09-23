@@ -1,0 +1,2410 @@
+{
+  "took": 49,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 266,
+    "max_score": 5.2186365,
+    "hits": [
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "8nK672oBCSQQun_soNVH",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "6ddbaa8b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "k0rF72oBUajwiU7D0-4q",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "0fd6af2b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "E6fG72oBCSQQun_sSON-",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "0fd6af2b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "6uHI72oBCSQQun_sGhLc",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "30fa8c65"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "7OHI72oBCSQQun_sGhLc",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "0fd6af2b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "CnnH72oBUajwiU7DpduN",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "30fa8c65"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "DHnH72oBUajwiU7DpduN",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "0fd6af2b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "FO3L72oBUajwiU7DyEVL",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "30fa8c65"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "Fu3L72oBUajwiU7DyEVL",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "0fd6af2b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "rTfM72oBCSQQun_sPYKa",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "30fa8c65"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "rzfM72oBCSQQun_sPYKa",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "0fd6af2b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "fQXP72oBUajwiU7Dbnae",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "0fd6af2b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "ewXP72oBUajwiU7Dbnae",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "30fa8c65"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "XkvP72oBCSQQun_s47Du",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "30fa8c65"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "YEvP72oBCSQQun_s47Du",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "0fd6af2b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "HY4d8GoBUajwiU7Di7os",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "30fa8c65"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "H44d8GoBUajwiU7Di7os",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "0fd6af2b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "J7sd8GoBCSQQun_sv9bf",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "710cd549"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "jpAe8GoBUajwiU7DiLqD",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "0cffa917"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "j5Ae8GoBUajwiU7DiLqD",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "1232ff01"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "OsAf8GoBCSQQun_sbw76",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "88ee5f1c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "dvc78GoBUajwiU7DxcdI",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "7ce78e3c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "efc78GoBUajwiU7DxcdI",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "bdf6c9fa"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "OcAf8GoBCSQQun_sbw76",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "7d731862"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "ynEF8moBUajwiU7DmgEm",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "39ac2220"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "BVIG8moBCSQQun_sc3cX",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "7eef38ec"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "2nMG8moBUajwiU7DegYr",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "bd3a4e44"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "7VcI8moBCSQQun_sR16t",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "7d7c1351"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "A3cI8moBUajwiU7DU0Z2",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "efc8ca26"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "tXoJ8moBUajwiU7DPTca",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "03250056"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "XFwK8moBCSQQun_sHJut",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "4272202e"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "DFIG8moBCSQQun_sc3cX",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "d1a6a79b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "1oyE8moBUajwiU7DdF74",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "4d6f5831"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "mGqE8moBCSQQun_s6lJH",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "4d6f5831"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "rmqE8moBCSQQun_s6lJH",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "0bd35b4b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "Wbea8moBUajwiU7DIhMY",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "4d6f5831"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "a7ea8moBUajwiU7DIhMY",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "7cca7ef1"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "b7ea8moBUajwiU7DIhMY",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "0bd35b4b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "LZOa8moBCSQQun_sI1gA",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "6e7e5fa7"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "kUrF72oBUajwiU7D0-4q",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "30fa8c65"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "irea8moBUajwiU7DIhMY",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "e705a489"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "my8z82oBUajwiU7Der6e",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "4c3cad7b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "sOsz82oBCSQQun_sfpnP",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "fc914389"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "Q-Uy82oBCSQQun_s1R9f",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "d39036b5"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "YCQy82oBUajwiU7DwjLL",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "1dbbfcdb"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "npZY82oBCSQQun_sR5p-",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "97e5513f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "oJZY82oBCSQQun_sR5p-",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "ab920ed5"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "opZY82oBCSQQun_sR5p-",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "bc9e643e"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "UIZ882oBCSQQun_s59cN",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "5384b0f4"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "jYuU82oBCSQQun_stPoT",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "6e88715e"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "k5Ae8GoBUajwiU7DiLqD",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "be927adc"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "qmqE8moBCSQQun_s6lJH",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "7cca7ef1"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "6IyE8moBUajwiU7DdF74",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "7cca7ef1"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "whuk82oBCSQQun_sS_8v",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "80a9976d"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "vHoJ8moBUajwiU7DPTca",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "a3e7ec77"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "tnoJ8moBUajwiU7DPTca",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "21e3c5d1"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "cHi982oBCSQQun_s7wZY",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "a8cd478e"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "W1wK8moBCSQQun_sHJut",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "092938ed"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "uHoJ8moBUajwiU7DPTca",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "7b4b41da"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "N5Oa8moBCSQQun_sI1gA",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "b8b7bd65"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "SdXI82oBUajwiU7D5JAg",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "9d1b1d3b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "HpLI82oBCSQQun_s42KP",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "f0480237"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "k5Ef8GoBUajwiU7Db7zy",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "18be5743"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "GOHo82oBCSQQun_sBdKR",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "e2fb1175"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "7IyE8moBUajwiU7DdF74",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "0bd35b4b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "WlwK8moBCSQQun_sHJut",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "0e6d8d1d"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "EafG72oBCSQQun_sSON-",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "30fa8c65"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "VOhP9GoBCSQQun_seAZ-",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "202c2ac5"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "V-hP9GoBCSQQun_seAZ-",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "7c6f54d5"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "XOhP9GoBCSQQun_seAZ-",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "e56773fa"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "eS1q9GoBCSQQun_sBQyK",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "34bb4e08"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "ei1q9GoBCSQQun_sBQyK",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "2e457c46"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "ey1q9GoBCSQQun_sBQyK",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "84d29f0d"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "gy1q9GoBCSQQun_sBQyK",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "4efabaa4"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "iC1q9GoBCSQQun_sBQyK",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "955b4792"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "iy1q9GoBCSQQun_sBQyK",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "c888593a"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "jS1q9GoBCSQQun_sBQyK",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "ca495db6"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "ji1q9GoBCSQQun_sBQyK",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "cac8444d"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "gS1q9GoBCSQQun_sBQyK",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "1f1db14f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "h7ea8moBUajwiU7DIhMY",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "000e223d"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "LebQ82oBUajwiU7DNvht",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "68290156"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "B1IG8moBCSQQun_sc3cX",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "8512686b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "qOqq8moBCSQQun_sVNl_",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "f8b4b5f7"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "n5ZY82oBCSQQun_sR5p-",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "ba00fe65"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "_US-8moBCSQQun_sAw1V",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "1dbbfcdb"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "8XG98moBUajwiU7Djs8F",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "1dbbfcdb"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "p-qq8moBCSQQun_sVNl_",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "e1ddbe47"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "pGqE8moBCSQQun_s6lJH",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "33af5733"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "LEnY9GoBCSQQun_sV7qW",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "b6184b02"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "bni982oBCSQQun_s7wZY",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "75f756e5"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "hS1q9GoBCSQQun_sBQyK",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "78b25cc7"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "Zbea8moBUajwiU7DIhMY",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "33af5733"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "oZZY82oBCSQQun_sR5p-",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "d43f0fc8"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "VuhP9GoBCSQQun_seAZ-",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "6af84951"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "nJZY82oBCSQQun_sR5p-",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "8382bef5"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "4oyE8moBUajwiU7DdF74",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "33af5733"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "hrea8moBUajwiU7DIhMY",
+        "_score": 5.2186365,
+        "_source": {
+          "docid": "1f56a658"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "lErF72oBUajwiU7D0-4q",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "2f549aba"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "l0rF72oBUajwiU7D0-4q",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "c6edcf1c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "FKfG72oBCSQQun_sSON-",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "2f549aba"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "F6fG72oBCSQQun_sSON-",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "c6edcf1c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "7eHI72oBCSQQun_sGhLc",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "2f549aba"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "8OHI72oBCSQQun_sGhLc",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "c6edcf1c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "DXnH72oBUajwiU7DpduN",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "2f549aba"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "EHnH72oBUajwiU7DpduN",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "c6edcf1c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "F-3L72oBUajwiU7DyEVL",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "2f549aba"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "Gu3L72oBUajwiU7DyEVL",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "c6edcf1c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "sDfM72oBCSQQun_sPYKa",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "2f549aba"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "szfM72oBCSQQun_sPYKa",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "c6edcf1c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "fgXP72oBUajwiU7Dbnae",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "2f549aba"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "gQXP72oBUajwiU7Dbnae",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "c6edcf1c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "YUvP72oBCSQQun_s47Du",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "2f549aba"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "ZEvP72oBCSQQun_s47Du",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "c6edcf1c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "II4d8GoBUajwiU7Di7os",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "2f549aba"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "I44d8GoBUajwiU7Di7os",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "c6edcf1c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "I7sd8GoBCSQQun_sv9bf",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "682cdaec"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "ClIG8moBCSQQun_sc3cX",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "1ee8a795"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "sHUH8moBUajwiU7DbC30",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "cb0287c3"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "6lcI8moBCSQQun_sR16t",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "fcdce1e0"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "_3cI8moBUajwiU7DU0V2",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "b776350e"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "uXoJ8moBUajwiU7DPTca",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "81af1058"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "unoJ8moBUajwiU7DPTca",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "88c52d6e"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "4YyE8moBUajwiU7DdF74",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "1d801ebb"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "o2qE8moBCSQQun_s6lJH",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "1d801ebb"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "ZLea8moBUajwiU7DIhMY",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "1d801ebb"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "fLea8moBUajwiU7DIhMY",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "f92893b1"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "8nG98moBUajwiU7Djs8F",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "db7464b9"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "VCYy82oBUajwiU7D1H92",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "0aff13fd"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "YSQy82oBUajwiU7DwjLL",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "db7464b9"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "ToZ882oBCSQQun_s59cN",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "01db0714"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "eLea8moBUajwiU7DIhMY",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "e0d01d0a"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "lOoz82oBCSQQun_se9qb",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "11132619"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "oC8z82oBUajwiU7Der6e",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "8d11325b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "nC8z82oBUajwiU7Der6e",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "25b1e60b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "_kS-8moBCSQQun_sAw1V",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "db7464b9"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "kS1q9GoBCSQQun_sBQyK",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "f4853b47"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "NCsz82oBUajwiU7DUpM1",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "db5928cb"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "WehP9GoBCSQQun_seAZ-",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "dc71d6e1"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "jy1q9GoBCSQQun_sBQyK",
+        "_score": 5.163856,
+        "_source": {
+          "docid": "d050c6da"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "JLsd8GoBCSQQun_sv9bf",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "355bdb4f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "Kbsd8GoBCSQQun_sv9bf",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "b5632b77"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "LLsd8GoBCSQQun_sv9bf",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "eff0bfd9"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "WAE68GoBCSQQun_s2yEi",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "e8bc2a50"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "CVIG8moBCSQQun_sc3cX",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "12bdca40"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "13MG8moBUajwiU7DegYr",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "c642f454"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "51cI8moBCSQQun_sR16t",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "5b539aa1"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "7lcI8moBCSQQun_sR16t",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "b5fdbc2b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "-XcI8moBUajwiU7DU0V2",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "59e2a5b1"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "-ncI8moBUajwiU7DU0V2",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "7ba611f0"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "_XcI8moBUajwiU7DU0V2",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "87e42af6"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "BXcI8moBUajwiU7DU0Z2",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "459b29b8"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "BncI8moBUajwiU7DU0Z2",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "50ad10ea"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "CXcI8moBUajwiU7DU0Z2",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "f5704d05"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "t3oJ8moBUajwiU7DPTca",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "24dba120"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "Z7ea8moBUajwiU7DIhMY",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "229a9dff"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "J5Oa8moBCSQQun_sI1gA",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "766cee24"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "HdOe8moBUajwiU7DbVrs",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "c4e1eb76"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "pOqq8moBCSQQun_sVNl_",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "7ec50576"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "kpAe8GoBUajwiU7DiLqD",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "adfa1021"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "L3Bx82oBCSQQun_s6lo_",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "493a9aa2"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "M3Bx82oBCSQQun_s6lo_",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "ee27fac7"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "UoZ882oBCSQQun_s59cN",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "a7267050"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "oVkJ8moBCSQQun_sMtgd",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "9ad311a3"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "r-sz82oBCSQQun_sfpnP",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "24fcf2b4"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "cXi982oBCSQQun_s7wZY",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "a9b04324"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "61cI8moBCSQQun_sR16t",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "0fee96a4"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "L-bQ82oBUajwiU7DNvht",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "813d7af1"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "HFQH8moBCSQQun_sXeE6",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "5e18595d"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "GeHo82oBCSQQun_sBdKR",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "8864a84f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "b3i982oBCSQQun_s7wZY",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "a59a5f89"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "G1QH8moBCSQQun_sXeE6",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "27c9e885"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "W-hP9GoBCSQQun_seAZ-",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "ba6b6487"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "gC1q9GoBCSQQun_sBQyK",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "e0eb591e"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "hy1q9GoBCSQQun_sBQyK",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "9521019b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "jC1q9GoBCSQQun_sBQyK",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "c9ffd87b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "41cI8moBCSQQun_sR16t",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "0ad1fa41"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "AXcI8moBUajwiU7DU0Z2",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "c618a764"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "tVAF8moBCSQQun_siAOp",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "945a9cc9"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "5IyE8moBUajwiU7DdF74",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "229a9dff"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "KUnY9GoBCSQQun_sV7qW",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "41615f31"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "slAF8moBCSQQun_siAOp",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "309690be"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "evc78GoBUajwiU7DxcdI",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "d02fe87a"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "s1AF8moBCSQQun_siAOp",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "27533c0c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "p2qE8moBCSQQun_s6lJH",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "5e8eedaa"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "pmqE8moBCSQQun_s6lJH",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "229a9dff"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "aLea8moBUajwiU7DIhMY",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "5e8eedaa"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "5YyE8moBUajwiU7DdF74",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "5e8eedaa"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "B3cI8moBUajwiU7DU0Z2",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "c1de247f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "AHcI8moBUajwiU7DU0Z2",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "c2e5fd68"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "_HcI8moBUajwiU7DU0V2",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "875bddc6"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "OMAf8GoBCSQQun_sbw76",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "6ab0553e"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "cvc78GoBUajwiU7DxcdI",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "0e1461dd"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "78ac82oBCSQQun_sB8YV",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "eed59fb2"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "F-Ho82oBCSQQun_sBdKR",
+        "_score": 5.111241,
+        "_source": {
+          "docid": "522ffeb6"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "kkrF72oBUajwiU7D0-4q",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "d38990a2"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "EqfG72oBCSQQun_sSON-",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "d38990a2"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "6-HI72oBCSQQun_sGhLc",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "d38990a2"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "C3nH72oBUajwiU7DpduN",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "d38990a2"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "Fe3L72oBUajwiU7DyEVL",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "d38990a2"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "rjfM72oBCSQQun_sPYKa",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "d38990a2"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "fAXP72oBUajwiU7Dbnae",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "d38990a2"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "X0vP72oBCSQQun_s47Du",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "d38990a2"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "Ho4d8GoBUajwiU7Di7os",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "d38990a2"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "d_c78GoBUajwiU7DxcdI",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "c1844d49"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "l5Ef8GoBUajwiU7DDFdD",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "34f84fe1"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "C1IG8moBCSQQun_sc3cX",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "c2167d13"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "DlIG8moBCSQQun_sc3cX",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "e02f8061"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "5lcI8moBCSQQun_sR16t",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "358ddb20"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "qGqE8moBCSQQun_s6lJH",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "97f7055b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "qWqE8moBCSQQun_s6lJH",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "7f04fe2f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "abea8moBUajwiU7DIhMY",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "97f7055b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "area8moBUajwiU7DIhMY",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "7f04fe2f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "KJOa8moBCSQQun_sI1gA",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "a07a9133"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "mi8z82oBUajwiU7Der6e",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "3e3d2ebb"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "UYZ882oBCSQQun_s59cN",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "93ba37ac"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "dqGI82oBCSQQun_s1P1B",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "56ef68d1"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "EFIG8moBCSQQun_sc3cX",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "ffdc5aca"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "oy8z82oBUajwiU7Der6e",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "c8b639ca"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "hbea8moBUajwiU7DIhMY",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "0f9e9a66"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "puqq8moBCSQQun_sVNl_",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "8718660e"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "iLea8moBUajwiU7DIhMY",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "2010b186"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "2igz82oBUajwiU7DLLxe",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "a9586543"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "QeUy82oBCSQQun_s1R9f",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "5370e8cf"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "KknY9GoBCSQQun_sV7qW",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "62b72157"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "rGqE8moBCSQQun_s6lJH",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "e93b488c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "54yE8moBUajwiU7DdF74",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "7f04fe2f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "5oyE8moBUajwiU7DdF74",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "97f7055b"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "Jrsd8GoBCSQQun_sv9bf",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "5b6033ef"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "crea8moBUajwiU7DIhMY",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "576ecbd5"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "bbea8moBUajwiU7DIhMY",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "e93b488c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "LUnY9GoBCSQQun_sV7qW",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "fb46dbeb"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "k66F9GoBUajwiU7D8lgB",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "0879a2c0"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "MXBx82oBCSQQun_s6lo_",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "78b8244f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "o5ZY82oBCSQQun_sR5p-",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "da452a41"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "MnBx82oBCSQQun_s6lo_",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "854120f5"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "6oyE8moBUajwiU7DdF74",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "e93b488c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "CncI8moBUajwiU7DU0Z2",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "06060074"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "KLsd8GoBCSQQun_sv9bf",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "83bfbfc0"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "MJOa8moBCSQQun_sI1gA",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "de130562"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "quqq8moBCSQQun_sVNl_",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "5b9c9c7c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "_tut9GoBCSQQun_sxbMj",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "dd9b9cad"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "mS8z82oBUajwiU7Der6e",
+        "_score": 5.060665,
+        "_source": {
+          "docid": "228baf4e"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "AlIG8moBCSQQun_sc3cX",
+        "_score": 5.0120125,
+        "_source": {
+          "docid": "183d9b22"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "6VcI8moBCSQQun_sR16t",
+        "_score": 5.0120125,
+        "_source": {
+          "docid": "f6e3d8c9"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "6YyE8moBUajwiU7DdF74",
+        "_score": 5.0120125,
+        "_source": {
+          "docid": "d43a10fc"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "bLea8moBUajwiU7DIhMY",
+        "_score": 5.0120125,
+        "_source": {
+          "docid": "d43a10fc"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "q2qE8moBCSQQun_s6lJH",
+        "_score": 5.0120125,
+        "_source": {
+          "docid": "d43a10fc"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "D3nH72oBUajwiU7DpduN",
+        "_score": 4.965175,
+        "_source": {
+          "docid": "9441418f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "Ge3L72oBUajwiU7DyEVL",
+        "_score": 4.965175,
+        "_source": {
+          "docid": "9441418f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "sjfM72oBCSQQun_sPYKa",
+        "_score": 4.965175,
+        "_source": {
+          "docid": "9441418f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "gAXP72oBUajwiU7Dbnae",
+        "_score": 4.965175,
+        "_source": {
+          "docid": "9441418f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "Y0vP72oBCSQQun_s47Du",
+        "_score": 4.965175,
+        "_source": {
+          "docid": "9441418f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "Io4d8GoBUajwiU7Di7os",
+        "_score": 4.965175,
+        "_source": {
+          "docid": "9441418f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "lkrF72oBUajwiU7D0-4q",
+        "_score": 4.965175,
+        "_source": {
+          "docid": "9441418f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "K7sd8GoBCSQQun_sv9bf",
+        "_score": 4.965175,
+        "_source": {
+          "docid": "feac8fce"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "FqfG72oBCSQQun_sSON-",
+        "_score": 4.965175,
+        "_source": {
+          "docid": "9441418f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "7-HI72oBCSQQun_sGhLc",
+        "_score": 4.965175,
+        "_source": {
+          "docid": "9441418f"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "u3oJ8moBUajwiU7DPTca",
+        "_score": 4.965175,
+        "_source": {
+          "docid": "8a328097"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "BHcI8moBUajwiU7DU0Z2",
+        "_score": 4.965175,
+        "_source": {
+          "docid": "cb766cb7"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "_9ut9GoBCSQQun_sxbMj",
+        "_score": 4.965175,
+        "_source": {
+          "docid": "876ce61c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "ii1q9GoBCSQQun_sBQyK",
+        "_score": 4.965175,
+        "_source": {
+          "docid": "c6edfca6"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "fi1q9GoBCSQQun_sBQyK",
+        "_score": 4.965175,
+        "_source": {
+          "docid": "a6fd1b9c"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "dbea8moBUajwiU7DIhMY",
+        "_score": 4.965175,
+        "_source": {
+          "docid": "90ba173d"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "XLea8moBUajwiU7DIhMY",
+        "_score": 4.876555,
+        "_source": {
+          "docid": "27734fe7"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "m2qE8moBCSQQun_s6lJH",
+        "_score": 4.876555,
+        "_source": {
+          "docid": "27734fe7"
+        }
+      },
+      {
+        "_index": "global_video_doc_in@0",
+        "_type": "doc",
+        "_id": "2YyE8moBUajwiU7DdF74",
+        "_score": 4.876555,
+        "_source": {
+          "docid": "27734fe7"
+        }
+      }
+    ]
+  }
+}

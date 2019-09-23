@@ -12,6 +12,18 @@
         <module>quartz</module>
         <module>hystrix</module>
         <module>threadpool</module>
+        <module>data-structure</module>
+        <module>io</module>
+        <module>thread</module>
+        <module>opencv</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.miui.global.kit</groupId>
+            <artifactId>global-kit</artifactId>
+            <version>3.5.3-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
