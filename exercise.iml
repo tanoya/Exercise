@@ -64,5 +64,7 @@
     <orderEntry type="library" name="Maven: com.google.code.findbugs:annotations:2.0.3" level="project" />
     <orderEntry type="library" name="Maven: net.jpountz.lz4:lz4:1.2.0" level="project" />
     <orderEntry type="library" name="Maven: org.xerial.snappy:snappy-java:1.1.2.6" level="project" />
+    <orderEntry type="library" name="Maven: com.miui.global.content:content-thrift:1.4.4-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.xiaomi.data:data-platform-spec-global:0.0.1-SNAPSHOT" level="project" />
   </component>
 </module>

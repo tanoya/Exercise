@@ -24,6 +24,12 @@
             <artifactId>global-kit</artifactId>
             <version>3.5.3-SNAPSHOT</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.miui.global.content</groupId>
+            <artifactId>content-thrift</artifactId>
+            <version>1.4.4-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
 </project>
