@@ -110,4 +110,23 @@ public class BinaryTree {
         return null;
     }
 
+
+
+    public int depth(Leaf leaf){
+        if( leaf == null ){
+            return 0;
+        }
+
+        int left = 0;
+        int right = 0;
+        if(leaf.getLeft() != null){
+            left =  depth(leaf.getLeft() ) + 1;
+        }
+
+        if(leaf.getRight() != null){
+            right = depth(leaf.getRight()) + 1;
+        }
+        return Math.max(left, right);
+    }
+
 }
