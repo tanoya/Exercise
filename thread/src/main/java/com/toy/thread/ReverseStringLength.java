@@ -1,7 +1,5 @@
 package com.toy.thread;
 
-import com.sun.jmx.remote.internal.ArrayQueue;
-
 public class ReverseStringLength {
 
     private String str;

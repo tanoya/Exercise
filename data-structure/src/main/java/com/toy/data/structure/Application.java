@@ -1,11 +1,17 @@
 package com.toy.data.structure;
 
+import java.util.Queue;
+import java.util.concurrent.ArrayBlockingQueue;
+import java.util.concurrent.LinkedBlockingQueue;
+
 public class Application {
 
     public static void main(String[] args) {
-        System.out.println("Halo world!");
-
-        System.out.println(test(0));
+        String key="abc";
+        int hashCode = key.hashCode();
+        System.out.println(String.format("%d,   %s", hashCode, Integer.toBinaryString(hashCode)));
+        int h;
+        System.out.println(Integer.toBinaryString(key.hashCode()>>>16));
     }
 
     public static int test(int mark){
@@ -25,6 +31,11 @@ public class Application {
             System.out.println(" error happened !");
             throw new Exception("inner error!");
         }
+
+        Queue<Character> queue = new LinkedBlockingQueue<Character>();
+
         return 1;
     }
+
+
 }
