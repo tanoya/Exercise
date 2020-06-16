@@ -11,7 +11,19 @@ import org.bytedeco.javacv.Java2DFrameConverter;
 public class Application {
 
     public static void main(String[] args) {
-        getPicFromVideo();
+//        getPicFromVideo();
+        try{
+            String t = "😍";
+            byte[] t1 = t.getBytes();
+            byte[] t2 = t.getBytes("utf8");
+            byte[] t3 = t.getBytes("unicode");
+            byte[] t4 = t.getBytes("utf16");
+            System.out.println(new String(t4, "unicode"));
+            System.out.println(new String(t1, "utf8"));
+            System.out.println(new String(t1, "utf16"));
+        }catch(Exception e){
+
+        }
     }
 
     public static void getPicFromVideo(){

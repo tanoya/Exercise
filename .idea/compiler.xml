@@ -11,6 +11,7 @@
         <module name="io" />
         <module name="opencv" />
         <module name="quartz" />
+        <module name="spring-module" />
         <module name="thread" />
         <module name="threadpool" />
       </profile>
@@ -22,6 +23,7 @@
       <module name="io" target="1.5" />
       <module name="opencv" target="1.5" />
       <module name="quartz" target="1.5" />
+      <module name="spring-module" target="1.5" />
       <module name="thread" target="1.5" />
       <module name="threadpool" target="1.5" />
     </bytecodeTargetLevel>

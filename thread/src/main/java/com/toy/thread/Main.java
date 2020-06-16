@@ -1,7 +1,5 @@
 package com.toy.thread;
 
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Queue;
 import java.util.concurrent.ArrayBlockingQueue;
 
